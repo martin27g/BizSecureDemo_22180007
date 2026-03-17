@@ -1,6 +1,5 @@
 ﻿using BizSecureDemo_22180007.Data;
 using BizSecureDemo_22180007.Models;
-using BizSecureDemo_22180007.Data;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
